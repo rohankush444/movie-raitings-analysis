@@ -1,3 +1,11 @@
+Team Members Name :
+
+Yash hirpara
+Prathamesh Dhakoliya
+Rohan Kushwaha
+Bimal Tenson 
+
+
 # Movie Ratings Analysis
 
 ## Introduction
@@ -13,6 +21,4 @@ The movie industry lacks clear insights into how critics’ ratings, audience op
 * GitHub
 * Microsoft Teams
 
-## Repository Owner
 
-Your Name
