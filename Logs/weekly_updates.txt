@@ -1,1 +1,13 @@
+Date: 16 May 2026
 
+Project Update:
+
+- Created GitHub repository structure
+- Added required folders (Data, Source, Documentation, Logs)
+- Completed Project Plan (Problem Analysis, Workflow, Tools, Timeline)
+- Understanding dataset (IMDb Top 1000 Movies and TV Shows)
+- Preparing for data analysis phase
+- Next step: Upload dataset and start analysis in Jupyter Notebook
+
+Meeting Notes:
+Team discussed project planning and task distribution using Microsoft Teams.
