@@ -1,1 +1,8 @@
+Dataset used for this project:
 
+IMDb Top 1000 Movies and TV Shows Dataset
+
+Source:
+https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
+
+The dataset is not stored in this repository and should be downloaded from Kaggle.
