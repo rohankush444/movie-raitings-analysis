@@ -1,13 +1,43 @@
 Date: 16 May 2026
 
-Project Update:
+Week 1 Update:
 
-- Created GitHub repository structure
-- Added required folders (Data, Source, Documentation, Logs)
-- Completed Project Plan (Problem Analysis, Workflow, Tools, Timeline)
-- Understanding dataset (IMDb Top 1000 Movies and TV Shows)
-- Preparing for data analysis phase
-- Next step: Upload dataset and start analysis in Jupyter Notebook
+* Created GitHub repository structure
+* Added Data, Documentation, Logs, and Source folders
+* Completed project plan document
+* Selected IMDb Top 1000 Movies and TV Shows dataset
+* Assigned team responsibilities
 
-Meeting Notes:
-Team discussed project planning and task distribution using Microsoft Teams.
+Date: 23 May 2026
+
+Week 2 Update:
+
+* Reviewed related research papers
+* Studied dataset attributes and variables
+* Updated project documentation
+* Discussed project methodology
+
+Date: 30 May 2026
+
+Week 3 Update:
+
+* Started data preprocessing
+* Examined dataset quality and structure
+* Planned exploratory data analysis (EDA)
+* Conducted team progress review
+
+Date: 06 June 2026
+
+Week 4 Update:
+
+* Began exploratory data analysis
+* Created initial charts and visualizations
+* Analyzed movie ratings, genres, and vote counts
+* Discussed preliminary findings with team members
+
+Next Steps:
+
+* Complete data analysis
+* Generate additional visualizations
+* Finalize report
+* Prepare project presentation
