@@ -1,24 +1,84 @@
-Team Members Name :
-
-Yash hirpara
-Prathamesh Dhakoliya
-Rohan Kushwaha
-Bimal Tenson 
-
-
 # Movie Ratings Analysis
 
-## Introduction
+## Team Members
 
-The film industry produces thousands of movies annually, each receiving varying responses from critics and audiences. Understanding patterns in ratings, genres, and studios can provide valuable insights into what drives a movie’s success. This project analyzes Rotten Tomatoes data to uncover trends in film ratings and audience perception.
+* Yash Hirpara
+* Prathamesh Dhakoliya
+* Rohan Kushwaha
+* Bimal Tenson
+
+## Project Overview
+
+This project focuses on analyzing movie ratings and audience preferences using the IMDb Top 1000 Movies and TV Shows dataset. The objective is to explore patterns in movie ratings, genres, popularity, and audience engagement through data analysis and visualization techniques.
 
 ## Problem Statement
 
-The movie industry lacks clear insights into how critics’ ratings, audience opinions, and production factors such as genre and studio influence a film’s success. Additionally, discrepancies between critic and audience ratings are not well understood. There is a need to analyze historical movie data to identify patterns and trends.
+The entertainment industry generates large amounts of movie-related data. However, identifying the factors that influence movie ratings, popularity, and audience preferences remains a challenge. This project aims to analyze IMDb movie data and uncover meaningful insights that can support data-driven decision-making.
 
-## Tools
+## Objectives
 
+* Analyze IMDb movie data.
+* Identify trends in ratings and genres.
+* Explore audience preferences.
+* Examine relationships between ratings, popularity, and vote counts.
+* Create visualizations to communicate findings effectively.
+
+## Dataset Information
+
+**Dataset Name:** IMDb Top 1000 Movies and TV Shows Dataset
+
+**Source:** Kaggle
+
+**Dataset Link:**
+https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
+
+## Repository Link
+
+https://github.com/rohankush444/movie-ratings-analysis
+
+## Tools and Technologies
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+* Kaggle Notebook
 * GitHub
-* Microsoft Teams
 
+## Project Structure
 
+Data/ – Dataset files
+
+Documentation/ – Project report and project documents
+
+Logs/ – Weekly updates and meeting notes
+
+Source/ – Analysis notebook and source code
+
+README.md – Project overview
+
+## Current Status
+
+Project is currently under development.
+
+Completed:
+
+* Project planning
+* Literature review
+* Dataset selection
+* Repository setup
+
+In Progress:
+
+* Data preprocessing
+* Exploratory Data Analysis (EDA)
+* Data visualization
+* Results interpretation
+
+Pending:
+
+* Final analysis
+* Report completion
+* Presentation preparation
