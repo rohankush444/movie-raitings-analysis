@@ -1,0 +1,73 @@
+Meeting 1
+Date: 16 May 2026
+
+Discussion:
+
+* Created GitHub repository structure
+* Added Data, Documentation, Logs, and Source folders
+* Completed project plan document
+* Selected IMDb Top 1000 Movies and TV Shows dataset
+* Assigned responsibilities among team members
+
+Outcome:
+
+* Repository setup completed
+* Project planning completed
+
+---
+
+Meeting 2
+Date: 23 May 2026
+
+Discussion:
+
+* Reviewed related research papers
+* Studied dataset attributes and variables
+* Updated project documentation
+* Discussed analysis methodology
+
+Outcome:
+
+* Literature review progress reviewed
+* Methodology finalized
+
+---
+
+Meeting 3
+Date: 30 May 2026
+
+Discussion:
+
+* Started data preprocessing
+* Examined dataset quality and structure
+* Planned exploratory data analysis (EDA)
+* Reviewed team progress
+
+Outcome:
+
+* Data preprocessing initiated
+* EDA plan prepared
+
+---
+
+Meeting 4
+Date: 06 June 2026
+
+Discussion:
+
+* Began exploratory data analysis
+* Created initial charts and visualizations
+* Analyzed movie ratings, genres, and vote counts
+* Discussed report and presentation preparation
+
+Outcome:
+
+* Initial analysis completed
+* Visualization work in progress
+
+Next Steps:
+
+* Complete EDA
+* Generate additional visualizations
+* Finalize report
+* Prepare presentation slides
