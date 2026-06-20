@@ -3,7 +3,7 @@
 ## Team Members
 
 * Yash Hirpara
-* Prathamesh Dhakoliya
+* Rakesh Srigonda
 * Rohan Kushwaha
 * Bimal Tenson
 
