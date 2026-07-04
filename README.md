@@ -1,84 +1,271 @@
-# Movie Ratings Analysis
+# 🎬 Movie Ratings Analysis
 
-## Team Members
+## 👥 Team Members
 
-* Yash Hirpara
-* Rakesh Srigonda
-* Rohan Kushwaha
-* Bimal Tenson
+- Yash Hirpara
+- Rakesh Srigonda
+- Rohan Kushwaha
+- Bimal Tenson
 
-## Project Overview
+---
 
-This project focuses on analyzing movie ratings and audience preferences using the IMDb Top 1000 Movies and TV Shows dataset. The objective is to explore patterns in movie ratings, genres, popularity, and audience engagement through data analysis and visualization techniques.
+# 📖 Project Overview
 
-## Problem Statement
+Movie Ratings Analysis is a data analytics project that explores the IMDb Top 1000 Movies and TV Shows dataset. The project aims to discover meaningful patterns in movie ratings, genres, audience engagement, vote counts, runtime, and revenue using Exploratory Data Analysis (EDA).
 
-The entertainment industry generates large amounts of movie-related data. However, identifying the factors that influence movie ratings, popularity, and audience preferences remains a challenge. This project aims to analyze IMDb movie data and uncover meaningful insights that can support data-driven decision-making.
+Using Python and various data science libraries, the project transforms raw movie data into valuable insights through statistical analysis and visualizations.
 
-## Objectives
+---
 
-* Analyze IMDb movie data.
-* Identify trends in ratings and genres.
-* Explore audience preferences.
-* Examine relationships between ratings, popularity, and vote counts.
-* Create visualizations to communicate findings effectively.
+# ❓ Problem Statement
 
-## Dataset Information
+The entertainment industry produces a vast amount of movie-related data every year. Understanding the factors that influence movie ratings, popularity, audience preferences, and commercial success remains a significant challenge.
 
-**Dataset Name:** IMDb Top 1000 Movies and TV Shows Dataset
+This project analyzes IMDb movie data to uncover trends and relationships that support data-driven decision-making for researchers, producers, and streaming platforms.
 
-**Source:** Kaggle
+---
 
-**Dataset Link:**
+# 🎯 Objectives
+
+- Analyze the IMDb Top 1000 Movies dataset.
+- Perform data cleaning and preprocessing.
+- Explore movie rating trends.
+- Analyze genre distribution.
+- Study audience voting behavior.
+- Examine relationships between ratings, votes, and revenue.
+- Create meaningful visualizations.
+- Summarize insights using Exploratory Data Analysis.
+
+---
+
+# 📂 Dataset Information
+
+**Dataset Name**
+
+IMDb Top 1000 Movies and TV Shows Dataset
+
+**Source**
+
+Kaggle
+
+**Dataset Link**
+
 https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
 
-## Repository Link
+---
+
+# 🔗 GitHub Repository
+
+Repository Link
 
 https://github.com/rohankush444/movie-ratings-analysis
 
-## Tools and Technologies
+---
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
-* Kaggle Notebook
-* GitHub
+# 🛠️ Tools and Technologies
 
-## Project Structure
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Kaggle Notebook
+- GitHub
 
-Data/ – Dataset files
+---
 
-Documentation/ – Project report and project documents
+# 📁 Project Structure
 
-Logs/ – Weekly updates and meeting notes
+```
+Movie-Ratings-Analysis/
+│
+├── Data/
+│   └── imdb_top_1000.csv
+│
+├── Documentation/
+│   ├── Project_Report.pdf
+│   └── Presentation.pptx
+│
+├── Logs/
+│   └── Weekly_Progress.pdf
+│
+├── Source/
+│   └── Movie_Ratings_Analysis.ipynb
+│
+├── Images/
+│   ├── runtime_distribution.png
+│   ├── genre_distribution.png
+│   ├── correlation_heatmap.png
+│   └── rating_distribution.png
+│
+├── README.md
+└── requirements.txt
+```
 
-Source/ – Analysis notebook and source code
+---
 
-README.md – Project overview
+# ⚙️ Installation
 
-## Current Status
+Clone the repository
 
-Project is currently under development.
+```bash
+git clone https://github.com/rohankush444/movie-ratings-analysis.git
+```
 
-Completed:
+Navigate to the project directory
 
-* Project planning
-* Literature review
-* Dataset selection
-* Repository setup
+```bash
+cd movie-ratings-analysis
+```
 
-In Progress:
+Install the required libraries
 
-* Data preprocessing
-* Exploratory Data Analysis (EDA)
-* Data visualization
-* Results interpretation
+```bash
+pip install -r requirements.txt
+```
 
-Pending:
+---
 
-* Final analysis
-* Report completion
-* Presentation preparation
+# ▶️ Usage
+
+Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+Open
+
+```
+Source/Movie_Ratings_Analysis.ipynb
+```
+
+Run all cells to reproduce the analysis and visualizations.
+
+---
+
+# 📊 Features
+
+- Data Cleaning
+- Missing Value Handling
+- Duplicate Removal
+- Exploratory Data Analysis (EDA)
+- Correlation Analysis
+- Genre Analysis
+- Runtime Analysis
+- Revenue Analysis
+- Vote Count Analysis
+- Statistical Visualization
+
+---
+
+# 📈 Exploratory Data Analysis
+
+The following analyses were performed:
+
+- Runtime Distribution
+- Genre Distribution
+- IMDb Rating Distribution
+- Meta Score Distribution
+- Top Grossing Movies
+- Top Directors
+- Movie Release Trends
+- Audience Vote Analysis
+- Correlation Heatmap
+- Revenue vs IMDb Rating
+- Vote Count vs IMDb Rating
+- Box Plot Analysis
+
+---
+
+# 🔍 Key Findings
+
+- Drama is the most common genre in the IMDb Top 1000 dataset.
+- Most highly rated movies have runtimes between 90 and 140 minutes.
+- IMDb ratings show a moderate positive correlation with audience vote counts.
+- Box office revenue has only a weak relationship with IMDb ratings.
+- Alfred Hitchcock and Steven Spielberg appear among the most successful directors.
+- The Shawshank Redemption and The Godfather received the highest IMDb ratings.
+- Audience ratings differ significantly from critic Meta Scores.
+- Vote counts contribute to the stability of movie ratings over time.
+
+---
+
+# 📉 Visualizations
+
+The project includes several visualizations such as:
+
+- Runtime Distribution
+- Genre Frequency Chart
+- Movie Release Timeline
+- Correlation Heatmap
+- Rating Distribution
+- Revenue Distribution
+- Top Directors
+- Top Grossing Movies
+- Audience Vote Analysis
+
+---
+
+# 📌 Results
+
+The analysis successfully identified important patterns in audience preferences and movie performance.
+
+The project demonstrates how Exploratory Data Analysis can uncover meaningful insights from large datasets and support better decision-making in the entertainment industry.
+
+---
+
+# 🚀 Future Work
+
+Future improvements include:
+
+- Analyze the complete IMDb dataset.
+- Develop a Movie Recommendation System.
+- Apply Machine Learning for rating prediction.
+- Perform Sentiment Analysis using IMDb reviews.
+- Build an interactive dashboard using Streamlit or Power BI.
+- Integrate live movie data through IMDb APIs.
+
+---
+
+# 📋 Project Status
+
+## ✅ Completed
+
+- Project Planning
+- Literature Review
+- Dataset Collection
+- Repository Setup
+- Data Cleaning
+- Data Preprocessing
+- Exploratory Data Analysis
+- Data Visualization
+- Results Interpretation
+- Project Report
+- Final Presentation
+- GitHub Repository
+
+---
+
+# 🤝 Contributions
+
+| Team Member | Contribution |
+|-------------|--------------|
+| Yash Hirpara | Data Collection, Repository Management |
+| Rakesh Srigonda | Data Cleaning, Preprocessing |
+| Rohan Kushwaha | Visualization and Statistical Analysis |
+| Bimal Tenson | Exploratory Data Analysis, Documentation, Presentation |
+
+---
+
+# 📚 References
+
+- IMDb
+- Kaggle Dataset
+- Pandas Documentation
+- NumPy Documentation
+- Matplotlib Documentation
+- Seaborn Documentation
+
+---
