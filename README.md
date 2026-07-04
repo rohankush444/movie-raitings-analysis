@@ -194,19 +194,59 @@ The following analyses were performed:
 
 # 📉 Visualizations
 
-The project includes several visualizations such as:
-
-- Runtime Distribution
-- Genre Frequency Chart
-- Movie Release Timeline
-- Correlation Heatmap
-- Rating Distribution
-- Revenue Distribution
-- Top Directors
-- Top Grossing Movies
-- Audience Vote Analysis
+The project includes several visualizations to explore movie ratings, genres, revenue, audience votes, runtime, and release trends.
 
 ---
+
+# 🖼️ Sample Visualizations
+
+### Rating Distribution
+<p align="center">
+  <img src="Images/imdb_rating_distribution.jpeg" width="45%">
+  <img src="Images/boxplot_imdb.jpeg" width="45%">
+</p>
+
+### Genre Analysis
+<p align="center">
+  <img src="Images/top_movie_genres.jpeg" width="45%">
+  <img src="Images/avg_rating_genre.jpeg" width="45%">
+</p>
+
+### Runtime and Release Trends
+<p align="center">
+  <img src="Images/runtime_distribution.jpeg" width="45%">
+  <img src="Images/movies_per_year.jpeg" width="45%">
+</p>
+
+### Revenue Analysis
+<p align="center">
+  <img src="Images/gross_vs_rating.jpeg" width="45%">
+  <img src="Images/top_grossing_movies.jpeg" width="45%">
+</p>
+
+### Ratings and Votes
+<p align="center">
+  <img src="Images/votes_vs_rating.jpeg" width="45%">
+  <img src="Images/top_voted_movies.jpeg" width="45%">
+</p>
+
+### Top Rated Movies & Directors
+<p align="center">
+  <img src="Images/top_rated_movies.jpeg" width="45%">
+  <img src="Images/top_directors.jpeg" width="45%">
+</p>
+
+### Correlation Analysis
+<p align="center">
+  <img src="Images/correlation_heatmap.jpeg" width="45%">
+  <img src="Images/meta_score_distribution.jpeg" width="45%">
+</p>
+
+### Additional Analysis
+<p align="center">
+  <img src="Images/certificate_distribution.jpeg" width="45%">
+</p>
+
 
 # 📌 Results
 
